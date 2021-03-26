@@ -8,9 +8,9 @@ import base64
 from google.oauth2 import service_account
 
 # Email variables. Modify this!
-EMAIL_FROM = 'noreply@lyfpedia.com'
-EMAIL_TO = 'mark.zuckerber@facebook.com'
-EMAIL_SUBJECT = 'Hello  from Lyfepedia!'
+EMAIL_FROM = ''
+EMAIL_TO = ''
+EMAIL_SUBJECT = 'Energy Song found!'
 EMAIL_CONTENT = 'Hello, this is a test\nLyfepedia\nhttps://lyfepedia.com'
 
 service = service_account_login()
