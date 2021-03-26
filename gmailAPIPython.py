@@ -11,7 +11,7 @@ from google.oauth2 import service_account
 EMAIL_FROM = ''
 EMAIL_TO = ''
 EMAIL_SUBJECT = 'Energy Song found!'
-EMAIL_CONTENT = 'Hello, this is a test\nLyfepedia\nhttps://lyfepedia.com'
+EMAIL_CONTENT = 'The  song mood has just started on the Energie.at call them right now at 06766060701 '
 
 service = service_account_login()
 # Call the Gmail API
